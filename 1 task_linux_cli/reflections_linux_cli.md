@@ -1,4 +1,12 @@
 # Command Line Basics
+I finished the course on CLI. It was interactive, also I made pro projects and quizes. Projects was sometimes repeatable, but now I strongly remember commands :smiley: 
+
+One thing that suprise me was nano editor just in terminal. And I tried to use it in my local and it is working. What the magic!
+
+![Image of Completed cource](https://github.com/yulyasystem/kottans-frontend/blob/master/1%20task_linux_cli/cli-completed.png)
+
+![Image of Completed cource pro version](https://github.com/yulyasystem/kottans-frontend/blob/master/1%20task_linux_cli/cli-completed-adittional.png)
+
 `pwd` print working directory
 
 `ls` list files in working dirs
