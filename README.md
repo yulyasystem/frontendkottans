@@ -5,3 +5,5 @@
 ## :heart_eyes_cat: [ Linux CLI, and HTTP ](https://github.com/yulyasystem/kottans-frontend/blob/master/1%20task_linux_cli/reflections_linux_cli.md) (done)
 
 ## :heart_eyes_cat: [ Git Collaboration ](https://github.com/yulyasystem/kottans-frontend/blob/master/2%20git_collaboration/git_collaboration_reflections.md) (done) 
+
+## :heart_eyes_cat: [ Intro to HTML and CSS ](https://github.com/yulyasystem/kottans-frontend/blob/master/3%20task_html_css_intro/html_css_intro_reflections.md) (done)
