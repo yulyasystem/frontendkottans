@@ -22,7 +22,7 @@ if we want to ignore some files to be commited create file `.gitignore` and plac
 
 To mind this course was better and easier. But here is no new info, but I refresh how to solve merge conflicts in branching, it was the hardest moment in git, but is behind now.
 
-![image of completed course first](\what-is-version-control.png)
+![image of completed course first](https://github.com/yulyasystem/kottans-frontend/blob/master/2%20git_collaboration/what-is-version-control.png)
 The second course **GitHub & Collaboration** dive into remotes repositories on GitHub.
 
 `git remote add origin url_is_here` points to the project on GitHub
@@ -48,7 +48,7 @@ marker `origin\master` called *tracking branch* and is telling us that the remot
 
 `git rebase` combines several commits in one larger, move commits to have new base. `git rebase -i HEAD~3` will squash the last 3 commits in one. `HEAD` indicates current location. to push changes after rebase it is necessary to `git push -f` `-f` flag means *fixup* combine comitts changes and drop the commit message
 
-![image of completed course second](\git-collaboration.png)
+![image of completed course second](https://github.com/yulyasystem/kottans-frontend/blob/master/2%20git_collaboration/git-collaboration.png)
 
 This course is all about collaboration with team members. I will intend advices for writing good commit messages. 
 
