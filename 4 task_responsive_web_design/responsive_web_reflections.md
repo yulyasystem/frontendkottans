@@ -23,7 +23,7 @@ That is ability to debug on my smartphone, switching on developer mode, also I f
  ```
  I have already had experience with Flexbox. And it is awesome! I love it. And I`m surely will intend it in my projects.
 
-![image of udacity responsive](https://github.com/yulyasystem/kottans-frontend/blob/master/4%20task_responsive_web_design\web-responsive-udacity.png)
+![image of udacity responsive](https://github.com/yulyasystem/kottans-frontend/blob/master/4%20task_responsive_web_design/web-responsive-udacity.png)
 
  I found out Udacity course too easy and want to read more about Flexboxes, Grids. I read [nice article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) on css-tricks with cool pictures which clearly describe flexbox principles. 
 ## Flexbox
@@ -50,7 +50,7 @@ One thing that tangle me up a little is axes in rows and columns with `justify-c
 
 Frogs game is interesting and funny! I wanna more :) Froges brought home:
 
-![image of udacity responsive](https://github.com/yulyasystem/kottans-frontend/blob/master/4%20task_responsive_web_design\froggy.png) 
+![image of udacity responsive](https://github.com/yulyasystem/kottans-frontend/blob/master/4%20task_responsive_web_design/froggy.png) 
 
 I have tried to practice with responsive and it is only seems easy, until you write your own media querie and get confused with min and max-width :smile: 
 
