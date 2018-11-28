@@ -48,7 +48,7 @@ Object in JS is like another data type.
 
 **Naming conventions** for objects. * Do not use numbers as the first charachters in property name, hyphens and spaces* instead use camelCase :)
 
-![image of udacity js](https://github.com/yulyasystem/kottans-frontend/blob/master/5%20task_js_basics\js-basics.png) 
+![image of udacity js](https://github.com/yulyasystem/kottans-frontend/blob/master/5%20task_js_basics/js-basics.png) 
 
 ## FreeCodeCamp
 
@@ -65,7 +65,7 @@ object `arguments` stores information about parameters
 
 Ohh, that was not easy, I have been solving tasks for 4 days , but it is great evolution! I learnt a lot of new methods in JS which facilitate a lot. 
 
-![freecodecamp](https://github.com/yulyasystem/kottans-frontend/blob/master/5%20task_js_basics\freecodecamp.png) 
+![freecodecamp](https://github.com/yulyasystem/kottans-frontend/blob/master/5%20task_js_basics/freecodecamp.png) 
 
 
 
