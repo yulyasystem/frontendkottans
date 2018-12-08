@@ -11,3 +11,5 @@
 ## :heart_eyes_cat: [ Responsive Web Design ](https://github.com/yulyasystem/kottans-frontend/blob/master/4%20task_responsive_web_design/responsive_web_reflections.md) (done)
 
 ## :heart_eyes_cat: [ JS Basics](https://github.com/yulyasystem/kottans-frontend/blob/master/5%20task_js_basics/js_basics.md) (done)
+
+## :heart_eyes_cat: [ JS DOM](https://github.com/yulyasystem/kottans-frontend/blob/master/6%20task_js_dom/task_js_dom_reflections.md) (done)
