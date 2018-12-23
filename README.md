@@ -12,4 +12,6 @@
 
 ## :heart_eyes_cat: [ JS Basics](https://github.com/yulyasystem/kottans-frontend/blob/master/5%20task_js_basics/js_basics.md) (done)
 
-## :heart_eyes_cat: [ JS DOM](https://github.com/yulyasystem/kottans-frontend/blob/master/6%20task_js_dom/task_js_dom_reflections.md) (done)
+## :heart_eyes_cat: [ JS DOM](https://github.com/yulyasystem/kottans-frontend/blob/master/6%20task_js_dom/task_js_dom_reflections.md) (done) [code base](https://github.com/yulyasystem/kottans-frontend/tree/master/6%20task_js_dom/js-dom) Reviewed and approved by @AMashoshyna
+
+## :heart_eyes_cat: [ Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/7%20tiny_js_world/tiny_js_reflections.md) (done)
