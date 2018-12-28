@@ -1,4 +1,4 @@
-##Object Oriented Js
+## Object Oriented Js
 I familiar with OOP principles from my university lessons,it can help oraganize code in more logical way.
 ES6 does not require function statement for methods:
 ```
