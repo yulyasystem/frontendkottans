@@ -18,5 +18,7 @@
 
 ## :heart_eyes_cat: [ OOP](https://github.com/yulyasystem/kottans-frontend/blob/master/8%20oop/oop_reflections.md) [code base](https://github.com/yulyasystem/frogger-game/blob/master/js/app.js) Reviewed and approved by @OleksiyRudenko
 
+## :heart_eyes_cat: [ post oop Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/9%20oop/reflections.md) [code base](https://github.com/yulyasystem/a-tiny-JS-world) Reviewed and approved by 
+
 
 
