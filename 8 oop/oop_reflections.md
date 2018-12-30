@@ -34,3 +34,8 @@ class Book{
 }
 ```
 I think  it is easier to use. 
+
+7kyu is achieved :) 
+
+![codewars](https://github.com/yulyasystem/kottans-frontend/blob/master/8%20oop/7kyu.png) 
+
