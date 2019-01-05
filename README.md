@@ -20,7 +20,9 @@
 
 ## :heart_eyes_cat: [ Post oop Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/9%20post_oop_world/reflections.md) [code base](https://github.com/yulyasystem/a-tiny-JS-world) Reviewed and approved by @OleksiyRudenko
 
-## :heart_eyes_cat: [ Memory Pair Game](https://github.com/yulyasystem/kottans-frontend/blob/master/10%20memory_pair_game/memory.md) [code base](https://github.com/yulyasystem/memory-pair-game) Reviewed and approved by 
+## :heart_eyes_cat: [ Memory Pair Game](https://github.com/yulyasystem/kottans-frontend/blob/master/10%20memory_pair_game/memory.md) [code base](https://github.com/yulyasystem/memory-pair-game) Reviewed and approved by @zonzujiro
 
+
+## :heart_eyes_cat: [ Friends App](https://github.com/yulyasystem/kottans-frontend/blob/master/11%20friends-app/reflections.md) [code base](https://github.com/yulyasystem/friend-app) Reviewed and approved by @zonzujiro
 
 
