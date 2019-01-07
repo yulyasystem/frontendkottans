@@ -11,4 +11,11 @@ Web APIs add tasks to the  event queue. For example, they are DOM Event Handlers
 
 Asynchronous programming in JS is achieved by using Web APIs that processes code on seperate threads O_O. They send their results as tasks on event queue. Tasks are defined by callback funcs passed into APIs. Ooo, so haaard... 
 
-Async code will only run when the call stack is empty.
+Async code will only run when the call stack is empty. *Callback Functions* are functions  that are passed as arguments into other functions to be executed at later point in time. *setInterval* schedules reoccuring event. 
+
+*Promises* are containers for values that are not avaiable yet but my be eventually become avaible. :confused:
+The _new Promise_ constructor takes callback function with arguments *resolve and reject*. resolve returns a promise that is fulfilled and reject to reject promise :) *then()* and *catch()* methods are used to handle the results the first one for resolved Promises and the second for rejected. 
+
+
+
+
