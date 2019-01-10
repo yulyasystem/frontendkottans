@@ -14,7 +14,7 @@ Asynchronous programming in JS is achieved by using Web APIs that processes code
 Async code will only run when the call stack is empty. *Callback Functions* are functions  that are passed as arguments into other functions to be executed at later point in time. *setInterval* schedules reoccuring event. 
 
 *Promises* are containers for values that are not avaiable yet but my be eventually become avaible. :confused:
-The _new Promise_ constructor takes callback function with arguments *resolve and reject*. resolve returns a promise that is fulfilled and reject to reject promise :) *then()* and *catch()* methods are used to handle the results the first one for resolved Promises and the second for rejected. 
+The _new Promise_ constructor takes callback function with arguments *resolve and reject*. resolve returns a promise that is fulfilled and reject to reject promise :) *then()* and *catch()* methods are used to handle the results the first one for resolved Promises and the second for rejected. To sequence async functions it is needed to return Promise within *then()* callbacks.
 
 
 

@@ -26,3 +26,5 @@
 ## :heart_eyes_cat: [ Friends App](https://github.com/yulyasystem/kottans-frontend/blob/master/11%20friends-app/reflections.md) [code base](https://github.com/yulyasystem/friend-app) Reviewed and approved by @zonzujiro
 
 
+## :heart_eyes_cat: [ Offline Web Apps](https://github.com/yulyasystem/kottans-frontend/blob/master/%20ofline-web-apps/reflections.md) 
+
