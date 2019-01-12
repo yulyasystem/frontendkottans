@@ -28,5 +28,5 @@
 
 ## :heart_eyes_cat: [ Offline Web Apps](https://github.com/yulyasystem/kottans-frontend/blob/master/offline-web-apps/reflections.md) 
 
-## :heart_eyes_cat: [ Website Performance Optimization](https://github.com/yulyasystem/kottans-frontend/blob/master/зerformance-oprimization/reflections.md) 
+## :heart_eyes_cat: [ Website Performance Optimization](https://github.com/yulyasystem/kottans-frontend/blob/master/performance-oprimization/reflections.md) 
 
