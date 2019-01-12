@@ -10,6 +10,6 @@ Service workers througth the js file control web-page, modyfying requests and ca
 Instalaltion is triggered when page is found to be new. 
 
 After view the course many things are unclear. I have only caught info about caching. I think I will explore Service Workers more.
-![image of udacity ](https://github.com/yulyasystem/kottans-frontend/blob/master/offline-web-apps/owa)
+![image of udacity ](https://github.com/yulyasystem/kottans-frontend/blob/master/offline-web-apps/owa.png)
 
 
