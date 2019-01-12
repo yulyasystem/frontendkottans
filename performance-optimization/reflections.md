@@ -37,7 +37,9 @@ More specific rules reqire more work in CSS.
 
 ![image of udacity ](https://github.com/yulyasystem/kottans-frontend/blob/master/performance-optimization/performance.png)
 
-In Browser Rendering Optimization course new for me was RAIL. Every app has its own lifecycle and performance fits into them in different ways
+In Browser Rendering Optimization course new for me was RAIL. Every app has its own lifecycle and performance fits into them in different ways.
+
+![image of udacity ](https://github.com/yulyasystem/kottans-frontend/blob/master/performance-optimization/udacity.png)
 
 
 
