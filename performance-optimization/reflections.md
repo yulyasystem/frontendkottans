@@ -41,6 +41,11 @@ In Browser Rendering Optimization course new for me was RAIL. Every app has its 
 
 ![image of udacity ](https://github.com/yulyasystem/kottans-frontend/blob/master/performance-optimization/udacity.png)
 
+Responsive Images course was very easy and almost all were learnt in responsive course. The new was `srcset`. It is attribute that provides additional source img according to media conditions which are defined by `sizes` attribute.
+
+![image of udacity ](https://github.com/yulyasystem/kottans-frontend/blob/master/performance-optimization/responsive.png)
+
+
 
 
 
