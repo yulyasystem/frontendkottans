@@ -12,7 +12,7 @@ When do such type of convertion `==` or `!=` JS first converts each value to the
 
 The value inside `if` statement is always converted to true or false.
 
-**List of truthy values: **
+**List of falsy values: **
 * false 
 * null
 * undefined 
