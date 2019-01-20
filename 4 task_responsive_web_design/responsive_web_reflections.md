@@ -48,11 +48,14 @@ One thing that tangle me up a little is axes in rows and columns with `justify-c
 
 `flex-flow` applies to parent container, combine `flex-direction` and `flex-wrap`.
 
+Align-* is for cross axis and justify for main axis. If you set your direction row, so it is your main axis, if you set direction column it is your main axis. Easy! 
+
 Frogs game is interesting and funny! I wanna more :) Froges brought home:
 
 ![image of udacity responsive](https://github.com/yulyasystem/kottans-frontend/blob/master/4%20task_responsive_web_design/froggy.png) 
 
 I have tried to practice with responsive and it is only seems easy, until you write your own media querie and get confused with min and max-width :smile: 
+
 
 
 
