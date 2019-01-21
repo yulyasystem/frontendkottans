@@ -30,3 +30,7 @@
 
 ## :heart_eyes_cat: [ Website Performance Optimization](https://github.com/yulyasystem/kottans-frontend/blob/master/performance-optimization/reflections.md) 
 
+
+
+## :heart_eyes_cat: [ Self-study Section](https://github.com/yulyasystem/kottans-frontend/blob/master/self-study/main.md)
+
