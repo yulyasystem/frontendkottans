@@ -68,6 +68,33 @@ Font relative unit `rem` is always relative to the `root element`. For example, 
 
 Div  is block level element, if you dont give the size to this element , it will be as wide as it can in inline dimension. `width:min-content` on the div, it becomes as large as it needs to be with content becoming as small as inline direction as possible. Does not caause overflow. But opposite  `max-content` cause overflow. `fit-content` works like max-content but here we can set the wrap point like `fit-content(100px)`
 
+### Grid
+Grid elements can be placed on page using:
+ * numbered lines. `grid-column:7/13` is set to be placed from 7 to 13 line, the same with rows. 
+
+ * names lines. name lines like 
+ ```css
+  grid-template-columns:[full-start] 1fr [content-start] 30em [content-end]1fr [full-end];   
+ ```  
+  ` grid-columns:content-start/content-end`
+  * grid-template-areas
+```css
+    grid-template-areas: 
+            "aside header ."
+            "aside text ."
+            ". text text";
+  ```
+  points are like gaps. I think it makes code much more simple
+
+We can span 2 rows together like :
+ ```css
+ .class{
+     grid-row:span 2;
+ }
+```
+
+*Grid works on direct children*. There can be an issue with lists, `<li>` is not direct child of grid container and it cant play grid game :(  The rescue is `display:content`. Every element in the documnet tree is rectangulat box consist of 2 sections. Actual box - border,padding,margin, and content of the box like text inside. We can control about how box and its children will be drawn on the page. CSS rule only affects the box being visually drawn on the page, it does not affect the markup. I understand it like we ommited closing tag, it is cool to save semantic rules. But there are issues with accesibility, in some browsers it can not render properly.
+
 
 
 
