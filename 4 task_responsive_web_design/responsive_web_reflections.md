@@ -56,6 +56,17 @@ Frogs game is interesting and funny! I wanna more :) Froges brought home:
 
 I have tried to practice with responsive and it is only seems easy, until you write your own media querie and get confused with min and max-width :smile: 
 
+### Sizing in CSS Layout
+
+Font relative unit `rem` is always relative to the `root element`. For example, html is root element, it has font-size 20px, therefore 1rem == 20 pixels, when give an element width of 10rem it will become 200px wide. Other unit like `em` is relative to thee font size that is applied to an element  like font-size of element is 40px and the width is 10em, so the width is 400px. 
+
+`Viewport` is part of webpage that the user can currently see.  Varies on the devices.
+
+`Viewport relative units` are calculated in relation to initial containing block, on the screen it is viewport. The `vw` is 1/100 of width of viewport, `vh` the same with height. 
+
+`vmin` and `vmax` is usufel when configure landscape and portrait modes. If the device is held in the portrait mode then 20vmax would be the same as 20vh, same for lanscape.
+
+Div  is block level element, if you dont give the size to this element , it will be as wide as it can in inline dimension. `width:min-content` on the div, it becomes as large as it needs to be with content becoming as small as inline direction as possible. Does not caause overflow. But opposite  `max-content` cause overflow. `fit-content` works like max-content but here we can set the wrap point like `fit-content(100px)`
 
 
 
