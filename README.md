@@ -14,16 +14,16 @@
 
 ## :heart_eyes_cat: [ JS DOM](https://github.com/yulyasystem/kottans-frontend/blob/master/6%20task_js_dom/task_js_dom_reflections.md) (done) [code base](https://github.com/yulyasystem/kottans-frontend/tree/master/6%20task_js_dom/js-dom) [Demo](https://suspicious-brown-2c203e.netlify.com/)  Reviewed and approved by @AMashoshyna
 
-## :heart_eyes_cat: [ Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/7%20tiny_js_world/tiny_js_reflections.md) [Demo](https://yulyasystem.github.io/task-oop-tiny-js-world/) [Code base](https://github.com/yulyasystem/task-oop-tiny-js-world/blob/master/index.js) Reviewed and approved by @AMashoshyna
+## :heart_eyes_cat: [ Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/7%20tiny_js_world/tiny_js_reflections.md) [Demo](https://yulyasystem.github.io/a-tiny-JS-world/) [Code base](https://github.com/yulyasystem/task-oop-tiny-js-world/blob/master/index.js) Reviewed and approved by @AMashoshyna
 
-## :heart_eyes_cat: [ OOP](https://github.com/yulyasystem/kottans-frontend/blob/master/8%20oop/oop_reflections.md) [code base](https://github.com/yulyasystem/frogger-game/blob/master/js/app.js) [Demo](https://yulyasystem.github.io/frogger-game/) Reviewed and approved by @OleksiyRudenko
+## :heart_eyes_cat: [ OOP | Frogger](https://github.com/yulyasystem/kottans-frontend/blob/master/8%20oop/oop_reflections.md)  [Demo](https://yulyasystem.github.io/frogger-game/) [Code base](https://github.com/yulyasystem/frogger-game/blob/master/js/app.js)  Reviewed and approved by @OleksiyRudenko
 
-## :heart_eyes_cat: [ Post oop Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/9%20post_oop_world/reflections.md) [code base](https://github.com/yulyasystem/a-tiny-JS-world) Reviewed and approved by @OleksiyRudenko
+## :heart_eyes_cat: [ Post oop Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/9%20post_oop_world/reflections.md)  [code base](https://github.com/yulyasystem/task-oop-tiny-js-world/blob/master/index.js) Reviewed and approved by @OleksiyRudenko
 
 ## :heart_eyes_cat: [ Memory Pair Game](https://github.com/yulyasystem/kottans-frontend/blob/master/10%20memory_pair_game/memory.md) [code base](https://github.com/yulyasystem/memory-pair-game) [Demo](https://yulyasystem.github.io/memory-pair-game/) Reviewed and approved by @zonzujiro
 
 
-## :heart_eyes_cat: [ Friends App](https://github.com/yulyasystem/kottans-frontend/blob/master/11%20friends-app/reflections.md) [code base](https://github.com/yulyasystem/friend-app) Reviewed and approved by @zonzujiro
+## :heart_eyes_cat: [ Friends App](https://github.com/yulyasystem/kottans-frontend/blob/master/11%20friends-app/reflections.md) [code base](https://github.com/yulyasystem/friend-app) [Demo](https://yulyasystem.github.io/friend-app/)  Reviewed and approved by @zonzujiro
 
 
 ## :heart_eyes_cat: [ Offline Web Apps](https://github.com/yulyasystem/kottans-frontend/blob/master/offline-web-apps/reflections.md) 
