@@ -12,3 +12,5 @@ We should strive to the simpliest way of doing something. Code must be written t
 Reduce the number of components. You do not need to add potential functionality into code. 
 
 It is intresting principle, but it is difficult to understand because I have not worked on big projects where importance of these principles may be seen. 
+
+

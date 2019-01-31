@@ -26,7 +26,9 @@ import {kottans} from './kottans.js';
 import * as kotik from './kottans.js';
 console.log(kotik.meow());
 ```
+As I properly understand due to poor browser support better to use module bundlers. The most popular is webpack.    
 
+Such strange feelings when using webpack. I use `--mode development` optimizes for build speed, and `--mode production` optimizes for execution speed, also minimify files :) Imports without relative path like `es-lodash` are modules from npm, my own modules need to be like `./module`
 
 
 

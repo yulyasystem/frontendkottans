@@ -1,9 +1,14 @@
 Course on Udacity was too hard to percieve information, so I try reading learn.javascript.ru 
 ![image of udacity js](https://github.com/yulyasystem/kottans-frontend/blob/master/8%20oop/udacity_oop.png) 
 
+*Object literals* are lists of properties, it encapsulates data. *Factory functions* are applied if you want to create many objects. When creating object with constructor, *this* is reference to object that currently execute code and *new* keyword create empty object. If we return an object in function we refer to that as **Factory function**. If we use *this* keword along with *new* operator we refer to **Constructor function**. 
+
+>Functions are objects. 
+
+
 In order to avoid repetable code when create objects we can use constructors : 
 
-```
+```js
 function Book(title,author){
     this.title = title;
     this.author = author;
