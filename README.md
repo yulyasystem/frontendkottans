@@ -18,7 +18,7 @@
 
 ## :heart_eyes_cat: [ OOP | Frogger](https://github.com/yulyasystem/kottans-frontend/blob/master/8%20oop/oop_reflections.md)  [Demo](https://yulyasystem.github.io/frogger-game/) [Code base](https://github.com/yulyasystem/frogger-game/blob/master/js/app.js)  Reviewed and approved by @OleksiyRudenko
 
-## :heart_eyes_cat: [ Post oop Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/9%20post_oop_world/reflections.md)  [code base](https://github.com/yulyasystem/task-oop-tiny-js-world/blob/master/index.js) Reviewed and approved by @OleksiyRudenko
+## :heart_eyes_cat: [ Post oop Tiny JS World](https://github.com/yulyasystem/kottans-frontend/blob/master/9%20post_oop_world/reflections.md) [code base](https://yulyasystem.github.io/task-oop-tiny-js-world/) [code base](https://github.com/yulyasystem/task-oop-tiny-js-world/blob/master/index.js) Reviewed and approved by @OleksiyRudenko
 
 ## :heart_eyes_cat: [ Memory Pair Game](https://github.com/yulyasystem/kottans-frontend/blob/master/10%20memory_pair_game/memory.md) [code base](https://github.com/yulyasystem/memory-pair-game) [Demo](https://yulyasystem.github.io/memory-pair-game/) Reviewed and approved by @zonzujiro
 
